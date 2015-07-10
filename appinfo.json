@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "WNJ85",
+    "longName": "Derby County Football Club",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Background-COL.png",
+                "name": "IMAGE_BACKGROUND_COL",
+                "type": "png"
+            },
+            {
+                "file": "images/Background-BW.png",
+                "name": "IMAGE_BACKGROUND_BW",
+                "type": "png"
+            },
+            {
+                "file": "images/Mini2-BW.png",
+                "menuIcon": true,
+                "name": "IMAGE_MINI",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Derby County",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "2b5b56bc-4dc6-4979-a4ce-b932c160f3fc",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
